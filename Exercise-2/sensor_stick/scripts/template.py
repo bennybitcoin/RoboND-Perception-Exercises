@@ -37,6 +37,5 @@ if __name__ == '__main__':
     # TODO: Create Publishers
 
     # Initialize color_list
-    get_color_list.color_list = []
 
     # TODO: Spin while node is not shutdown
